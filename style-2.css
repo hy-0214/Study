@@ -1,0 +1,33 @@
+.div1{
+       float:left;
+       border:1px solid blue;
+       background-color:blue;
+       padding-top:30px;
+       padding-bottom:650px;
+       width:150px;
+
+}
+.div2{ 
+       float:left; 
+       height:100%;
+       padding:30px;
+       
+     
+     }
+h1{ 
+    text-align:center;
+    font-size:60px;
+    color:red;
+    text-shadow: 1px 2px 5px;
+    margin:0;
+  }
+h2{
+    color:orange;
+    margin:0;
+}
+p{
+    font-family:Microsoft Yahei;
+    font-size:16px;
+    margin:0;
+ }
+html{height:100%;}

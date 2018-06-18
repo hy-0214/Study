@@ -1,0 +1,15 @@
+caption{
+         border:1px solid blue;
+         background-color:blue;
+         text-align:center
+         padding:10px;
+         font-size:50px;
+         color:red;
+         text-shadow:1px 1px 3px;
+                                  }
+tr td:nth-child(1){   
+                     font-size:20px;
+                     color:orange;
+                     background-color:gray;
+                                       }
+td{height:100px;}
